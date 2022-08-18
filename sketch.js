@@ -12,12 +12,12 @@ function setup() {
 
   //funcao do botao
   btn1 = createImg("");
-  btn1.position(220, 30);
+  btn1.position(400, 30);
   btn1.size(50, 50);
   btn1.mouseClicked(hForce);
   //funcao do botao2
   btn2 = createImg("");
-  btn2.position(320, 30);
+  btn2.position(500, 30);
   btn2.size(50, 50);
   btn2.mouseClicked(vForce);
 
